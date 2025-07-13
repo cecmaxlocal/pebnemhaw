@@ -4,7 +4,7 @@ LDFLAGS =  main.cpp
 
 SRC = 
 OBJ = $(SRC:.cc=.o)
-EXEC = gohoyweb7
+EXEC = pebnemhaw
 
 all: $(EXEC)
 
